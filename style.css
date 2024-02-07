@@ -1,0 +1,20 @@
+.conteint{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    min-width: min-content;
+    min-height: max-content;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgb(171, 28, 207);
+}
+.kart{
+    margin: 10px;
+    text-align: center;
+    vertical-align:10px;
+    width: 250px;
+    height: min-content;
+    background-color: rgb(0, 255, 106);
+    border-radius: 10px;
+}
